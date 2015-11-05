@@ -50,7 +50,7 @@ namespace WindowsUdpPacket
                 OnReceivedHandler("Listening on port:" + ServerPort.ToString());  
                 
                 byte[] bytes = new byte[4096];
-                int bytesRead = 0;
+                
                 try
                 {
                     if (receiveSocket != null)
