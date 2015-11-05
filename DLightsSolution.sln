@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsUpdPacket", "WindowsUpdPacket\WindowsUpdPacket.csproj", "{0097BA10-03BD-4BC5-B8B1-8E66AE6B3528}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsUdpPacket", "WindowsUpdPacket\WindowsUdpPacket.csproj", "{0097BA10-03BD-4BC5-B8B1-8E66AE6B3528}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
